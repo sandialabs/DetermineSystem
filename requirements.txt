@@ -1,0 +1,7 @@
+# Unit Testing Requirements
+pytest
+pytest-cov
+
+# Private Repositories
+configparserenhanced @ git+ssh://git@github.com:sandialabs/ConfigParserEnhanced.git@master#egg=configparserenhanced
+keywordparser @ git+ssh://git@github.com:sandialabs/KeywordParser.git@master#egg=keywordparser
